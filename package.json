@@ -1,0 +1,15 @@
+{
+  "name": "pdfgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mugheera Bin Sadiq",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.0.12",
+    "puppeteer": "^1.8.0"
+  }
+}
