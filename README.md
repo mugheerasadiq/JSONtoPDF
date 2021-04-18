@@ -1,4 +1,4 @@
-# JSON TO PDF Converter with Custom HTML template
+# HTML to PDF Converter with JSON data
 
 A NodeJS application that will populate JSON data to custom HTML template and then it will generate PDF.
 The application uses Handlebars which is a templating language, and puppeteer which is a headless chromium. These two modules combined give the power to generate PDF. Puppeteer
